@@ -1,6 +1,6 @@
 import string
 def stringoperation(lisofwords):
-    myfile = open("words.txt","r")
+    myfile = open("royal-navy.txt","r")
     wordsl = open(lisofwords,"r")
     punct = string.punctuation
     histo = dict()

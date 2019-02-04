@@ -1,7 +1,7 @@
 import hashlib
 import os
 
-
+print("jauesh")
 def md5(fname):
     hash_md5 = hashlib.md5()
     with open(fname, "rb") as f:
